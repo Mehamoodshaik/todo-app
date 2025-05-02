@@ -15,7 +15,7 @@ Set due date and time
 Mark as completed 
 Toggle hide/show completed todos
 Debounced search for performance  
-Moolah-inspired premium UI with gradients and Feather-style icons  
+Moolah website inspired UI with gradients and Feather-style icons  
 
 ---
 
@@ -27,7 +27,7 @@ I implemented the Factory Pattern in the frontend to dynamically switch between 
 
 I used debounced search with Lodash to improve responsiveness and avoid unnecessary API calls.
 
-Although not required, I applied a custom UI theme inspired by Moolah LLC to showcase design creativity and attention to user experience.
+Although not required, I applied a custom UI theme inspired by Moolah website to showcase design creativity and attention to user experience.
 
 I ensured proper handling of date and time with timezone normalization so due dates are consistent across frontend and backend.
 
@@ -40,13 +40,13 @@ Frontend    Vue 3, PrimeVue, Vite
 Styling     PrimeVue components + custom CSS 
 Backend     C# with ASP.NET Core Web API 
 Database    MySQL Server + EF Core         
-Design Pattern  Factory Pattern (frontend)
+Design Pattern  Factory Pattern 
 
 ---
 
 ## Setup Instructions
 
-**F rontend
+**Frontend
 
 cd todo-app-frontend
 npm install
