@@ -57,3 +57,12 @@ Backend
 - dotnet restore
 - dotnet ef database update
 - dotnet run
+
+---
+
+## Resources
+- MDN for Java Script
+- Vue.js docs
+- PrimeVue component guides
+- Few blogs on the factory design pattern
+- Moolah website for the theme and colors :) 
