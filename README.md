@@ -46,14 +46,14 @@ I ensured proper handling of date and time with timezone normalization so due da
 
 ## Setup Instructions
 
-**Frontend
+Frontend
 
-cd todo-app-frontend
-npm install
-npm run dev
+- cd todo-app-frontend
+- npm install
+- npm run dev
 
-*** Backend 
-cd todo-app-backend
-dotnet restore
-dotnet ef database update
-dotnet run
+Backend 
+- cd todo-app-backend
+- dotnet restore
+- dotnet ef database update
+- dotnet run
