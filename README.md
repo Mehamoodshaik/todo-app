@@ -36,11 +36,11 @@ I ensured proper handling of date and time with timezone normalization so due da
 ## Tech Stack
 
 
-Frontend    Vue 3, PrimeVue, Vite        
-Styling     PrimeVue components + custom CSS 
-Backend     C# with ASP.NET Core Web API 
-Database    MySQL Server + EF Core         
-Design Pattern  Factory Pattern 
+Frontend:    Vue 3, PrimeVue, Vite        
+Styling:     PrimeVue components + custom CSS 
+Backend:     C# with ASP.NET Core (8) Web API 
+Database:    MySQL Server        
+Design Pattern:  Factory Pattern 
 
 ---
 
