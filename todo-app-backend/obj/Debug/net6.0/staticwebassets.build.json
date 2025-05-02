@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kUV9Leb2pMTbpEnIbirm+pHMmxCJfroJJUtKZmLs1RM=",
+  "Source": "todo-app-backend",
+  "BasePath": "_content/todo-app-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
